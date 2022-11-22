@@ -5,8 +5,7 @@
 
 using namespace std;
 
-// Function
-
+// Function calling
 void function()
 {
     int arr[] = { 13, 45, 22, 74, 87 };
