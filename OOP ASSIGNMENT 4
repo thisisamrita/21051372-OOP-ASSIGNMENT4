@@ -21,7 +21,6 @@ void function()
 
 
 // Class Object
-
 class Room 
 {
 
@@ -43,7 +42,6 @@ class Room
 
 
 // Inheritance
-
 // Base class
 class Vehicle
 {
@@ -90,7 +88,6 @@ class xyz
 
 
 // Polymorphism
-
 float area(int r)
 {
     float a;
@@ -143,7 +140,6 @@ class Count
 
 
 // Exception Handling
-
 void fun(int *ptr, int x)
 {
     if (ptr == NULL)
